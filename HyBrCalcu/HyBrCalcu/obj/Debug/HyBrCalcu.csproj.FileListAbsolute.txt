@@ -1,0 +1,16 @@
+C:\Users\lenovo\Documents\SharpDevelop Projects\HyBrCalcu\HyBrCalcu\obj\Debug\HyBrCalcu.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\Documents\SharpDevelop Projects\HyBrCalcu\HyBrCalcu\obj\Debug\HyBrCalcu.csproj.GenerateResource.Cache
+C:\Users\lenovo\Documents\SharpDevelop Projects\HyBrCalcu\HyBrCalcu\bin\Debug\HyBrCalcu.exe.config
+C:\Users\lenovo\Documents\SharpDevelop Projects\HyBrCalcu\HyBrCalcu\bin\Debug\HyBrCalcu.exe
+C:\Users\lenovo\Documents\SharpDevelop Projects\HyBrCalcu\HyBrCalcu\bin\Debug\HyBrCalcu.pdb
+C:\Users\lenovo\Documents\SharpDevelop Projects\HyBrCalcu\HyBrCalcu\obj\Debug\HyBrCalcu.MainForm.resources
+C:\Users\lenovo\Documents\SharpDevelop Projects\HyBrCalcu\HyBrCalcu\obj\Debug\HyBrCalcu.exe
+C:\Users\lenovo\Documents\SharpDevelop Projects\HyBrCalcu\HyBrCalcu\obj\Debug\HyBrCalcu.pdb
+C:\Users\lenovo\OneDrive\Documents\CV WEBSITE - Miles\projects\project8\HyBrCalcu\HyBrCalcu\bin\Debug\HyBrCalcu.exe.config
+C:\Users\lenovo\OneDrive\Documents\CV WEBSITE - Miles\projects\project8\HyBrCalcu\HyBrCalcu\bin\Debug\HyBrCalcu.exe
+C:\Users\lenovo\OneDrive\Documents\CV WEBSITE - Miles\projects\project8\HyBrCalcu\HyBrCalcu\bin\Debug\HyBrCalcu.pdb
+C:\Users\lenovo\OneDrive\Documents\CV WEBSITE - Miles\projects\project8\HyBrCalcu\HyBrCalcu\obj\Debug\HyBrCalcu.csprojResolveAssemblyReference.cache
+C:\Users\lenovo\OneDrive\Documents\CV WEBSITE - Miles\projects\project8\HyBrCalcu\HyBrCalcu\obj\Debug\HyBrCalcu.MainForm.resources
+C:\Users\lenovo\OneDrive\Documents\CV WEBSITE - Miles\projects\project8\HyBrCalcu\HyBrCalcu\obj\Debug\HyBrCalcu.csproj.GenerateResource.Cache
+C:\Users\lenovo\OneDrive\Documents\CV WEBSITE - Miles\projects\project8\HyBrCalcu\HyBrCalcu\obj\Debug\HyBrCalcu.exe
+C:\Users\lenovo\OneDrive\Documents\CV WEBSITE - Miles\projects\project8\HyBrCalcu\HyBrCalcu\obj\Debug\HyBrCalcu.pdb
